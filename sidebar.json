@@ -1,0 +1,7 @@
+{
+    "/" : "/",
+    "/profile" : "/profile",
+    "/rent" : "/rent",
+    "/browse" : "/browse",
+    "/logout" : "/logout"
+}

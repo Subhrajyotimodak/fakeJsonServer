@@ -1,0 +1,58 @@
+[
+    {
+        "plan" : "Readers Plan",
+        "timing" : "14",
+        "books" : [ {
+            "id" : "r1",
+            "title" : "Sherlock Holmes",
+            "author" : "Arthur Conan Doyle",
+            "language": "en",
+            "price" : "400",
+            
+            "issueDate" : "10-09-2020T22:49:30+05:30",
+            "deliveryDate": "11-09-2020T22:49:30+05:30",
+            "returnDate": "25-09-2020T22:49:30+05:30"
+        },
+        {
+            "id" : "r2",
+            "title" : "Sherlock Holmes 2",
+            "author" : "Arthur Conan Doyle",
+            "language": "en",
+            "price" : "400",
+            
+            "issueDate" : "11-09-2020T22:49:30+05:30",
+            "deliveryDate": "12-09-2020T22:49:30+05:30",
+            "returnDate": "26-09-2020T22:49:30+05:30"
+        }
+            
+        ]
+    },
+    {
+        "plan" : "School Plan",
+        "timing" : "180",
+        "books" : [ {
+            "id" : "s1",
+            "title" : "Sherlock Holmes",
+            "author" : "Arthur Conan Doyle",
+            "language": "en",
+            "price" : "400",
+            
+            "issueDate" : "10-09-2020T22:49:30+05:30",
+            "deliveryDate": "11-09-2020T22:49:30+05:30",
+            "returnDate": "25-09-2020T22:49:30+05:30"
+        },
+        {
+            "id" : "s2",
+            "title" : "Sherlock Holmes 2",
+            "author" : "Arthur Conan Doyle",
+            "language": "en",
+            "price" : "400",
+            
+            "issueDate" : "11-09-2020T22:49:30+05:30",
+            "deliveryDate": "12-09-2020T22:49:30+05:30",
+            "returnDate": "26-09-2020T22:49:30+05:30"
+        }
+            
+        ]
+    }
+]
